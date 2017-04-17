@@ -1,0 +1,18 @@
+# -*- coding:utf-8 -*-
+
+CMS_SESSION_ID = 'sdfecmdf87'
+
+FRONTUSER_SESSION_ID = '23hj23gk2u'
+DAYUPPOINT = 2
+
+# 阿里大于发送短信配置
+ALIDAYU_APP_KEY = '23721627'
+ALIDAYU_APP_SECRET = '3b297be8b2d4893537a2ef24476d7183'
+ALIDAYU_SIGN_NAME = '个人博客'
+ALIDAYU_TEMPLATE_CODE = 'SMS_58120161'
+
+#七牛云存储
+access_key = "Xem2JyHE0V4S8V0X9cetXdMMmx46OD50brDGTAwb"
+secret_key = "JhjleNgRj91kyjxCtVF9til41-X7ErCygbECVABf"
+
+PAGE_NUM = 10
